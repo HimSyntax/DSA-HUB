@@ -12,7 +12,7 @@
 
 # 📌 About
 
-**DSA Hub** is a structured repository dedicated to mastering **Data Structures & Algorithms** using **Java**.
+**DSA Hub** is a structured repository dedicated to mastering **Data Structures & Algorithms** using **Java**. So, All the best to me.
 
 This repository contains:
 
